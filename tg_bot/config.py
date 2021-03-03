@@ -13,8 +13,8 @@ class Config(object):
 
     # REQUIRED
     API_KEY = "--"
-    OWNER_ID = "1377620841"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "alain_champion"
+    OWNER_ID = "896814430"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "pubgmobileaccount777"
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
