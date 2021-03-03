@@ -52,7 +52,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 **🅷🅴🅻🅻🅾️ {}, My Name Is *{}*!\n 
 People's sometime find *Hard* to manage their groups, *So I am here to help you*.\n
-[ᴍʏ Mⱥຮteℝ💥](https://t.me/AayushKumarVIP).
+[ᴍʏ Mⱥຮteℝ💥](https://t.me/pubgmobileaccount777).
  
 You can find the list of available commands with /help.
 """
@@ -181,7 +181,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                      [
                          InlineKeyboardButton(
                              text="⚡ My Creator ⚡",
-                             url="t.me/AayushKumarVIP")
+                             url="https://t.me/pubgmobileaccount777")
                      ]]))
 
     else:
