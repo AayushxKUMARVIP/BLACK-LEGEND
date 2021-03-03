@@ -52,7 +52,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 **🅷🅴🅻🅻🅾️ {}, My Name Is *{}*!\n 
 People's sometime find *Hard* to manage their groups, *So I am here to help you*.\n
-[ᴍʏ Mⱥຮteℝ💥](t.me/alain_champion).
+[ᴍʏ Mⱥຮteℝ💥](https://t.me/AayushKumarVIP).
  
 You can find the list of available commands with /help.
 """
@@ -82,7 +82,7 @@ USER_SETTINGS = {}
 
 
 SOURCE_STRING = """
-🎓 I'm built in python3, using the python-telegram-bot library, and am fully opensource - [Repo](https://github.com/infotechbro/BLACK-LEGEND)
+🎓 I'm built in python3, using the python-telegram-bot library, and am fully opensource - [Repo](https://github.com/AayushxKUMARVIP/BLACK-LEGEND)
 ☄ You Can Clone Me [Heroku](https://heroku.com/deploy?template=https://github.com/infotechbro/BLACK-LEGEND.git)
 """
 
@@ -176,12 +176,12 @@ def start(bot: Bot, update: Update, args: List[str]):
                             callback_data="help_back".format(bot.username)),
                          InlineKeyboardButton(
                              text="💾 Source Code",
-                             url="https://github.com/infotechbro/BLACK-LEGEND")
+                             url="https://github.com/AayushxKUMARVIP/BLACK-LEGEND")
                      ],
                      [
                          InlineKeyboardButton(
                              text="⚡ My Creator ⚡",
-                             url="t.me/Alain_Champion")
+                             url="t.me/AayushKumarVIP")
                      ]]))
 
     else:
